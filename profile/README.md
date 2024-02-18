@@ -39,7 +39,9 @@ The technical architecture of our platform is designed to facilitate secure and 
 A central authority is responsible for overseeing and validating the trading process. For example, if JPMC wishes to purchase Apple stocks and Goldman Sachs intends to sell them, both parties generate zero-knowledge proofs (ZK proofs) to authenticate the transaction. These proofs are then submitted to the central authority, whose verifier contract is deployed on Scroll. Utilizing the Sindri API, we provide real-time confirmation in the browser that the transaction has been successfully verified using ZK proofs.
 
 #### Zk Implementation:- 
-Both the Seller and Buyer sides have integrated and deployed Zero-Knowledge Proofs and validation contracts on the Scroll platform :- 0xA2776632E9B9555B5aCFcd7e9bb543Aa4bd71ABB, 0x1e888A5312C5830b1804baf120Fe0b1061cfa287
+Both the Seller and Buyer sides have integrated and deployed Zero-Knowledge Proofs and validation contracts on the Scroll platform :- 
+- 0xA2776632E9B9555B5aCFcd7e9bb543Aa4bd71ABB
+- 0x1e888A5312C5830b1804baf120Fe0b1061cfa287
 
 
 
