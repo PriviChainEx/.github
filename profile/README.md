@@ -4,7 +4,7 @@
 Our platform facilitates trading between tokenized assets using interoperable private chains with a ZK bridge, paving the way for a new era of secure and efficient financial transactions.
 
 ## Demo video:- 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0PkmqRYKp_k/0.jpg)](https://www.youtube.com/watch?v=0PkmqRYKp_k)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0PkmqRYKp_k/1.jpg)](https://www.youtube.com/watch?v=0PkmqRYKp_k)
 ## Why PrivchainEx?
 
 ### Addressing Traditional Finance Drawbacks
